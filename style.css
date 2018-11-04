@@ -218,7 +218,7 @@ nav a{
 .about-container-1{
     max-width: 500px;
     margin: auto;
-    background-image: url(images/hero.png);
+    background-image: url(./hero.png);
     background-size: cover;
     background-repeat: no-repeat;
     min-height: 450px;
@@ -923,6 +923,7 @@ footer .copyright{
   min-height: 400px;
   height: 35vw;
   overflow-x: hidden;
+  overflow-y: hidden;
 
 }
 
