@@ -921,7 +921,9 @@ footer .copyright{
   margin-top: 80px;
   width: 100%;
   min-height: 400px;
-  height: 35vw
+  height: 35vw;
+  overflow-x: hidden;
+
 }
 
 .slider-container {
